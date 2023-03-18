@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://iceberg61.github.io/Intro-component-with-sign-up-form/)
+- Solution URL: [Intro-component-with-sign-up-form](https://www.frontendmentor.io/solutions/introcomponentwithsignupform-3PrUmPLh1S)
+- Live Site URL: [Intro-component-with-sign-up-form](https://iceberg61.github.io/Intro-component-with-sign-up-form/)
 
 ### Built with
 
