@@ -129,7 +129,7 @@ form p span {
 }
 
 .error-message {
-  font-size: .2rem;
+  font-size: .4rem;
   font-style: italic;
   color: var(--Red);
   margin-block: -.9rem 1.25rem;
